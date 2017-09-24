@@ -9,7 +9,7 @@
 ## Computación Visual 2017-02
 
 ### Taller ilusiones
-Repositorio: [Link](https://github.com/Radiezca/Taller-ilusiones)
+Readme.md, Taller Ilusiones: [Link](https://radiezca.github.io/Taller-ilusiones/)
 
 
 ### contacto
